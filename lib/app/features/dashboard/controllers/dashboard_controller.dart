@@ -10,7 +10,6 @@ class DashboardController extends GetxController {
     );
   }
 
-/*
   List<TaskCardData> getAllTask() {
     return [
       const TaskCardData(
@@ -126,5 +125,4 @@ class DashboardController extends GetxController {
       ),
     ];
   }
-  */
 }

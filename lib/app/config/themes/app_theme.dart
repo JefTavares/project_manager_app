@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project_manager/app/constans/app_constants.dart';
+import 'package:project_management/app/constans/app_constants.dart';
 
 /// all custom application theme
 class AppTheme {
